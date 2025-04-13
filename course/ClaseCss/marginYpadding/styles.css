@@ -1,0 +1,19 @@
+.formulario {
+    background: red;
+    padding:20px;
+}
+
+.formulario_input {
+    padding: 1% 50px;
+    width: 90%;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+.formulario_boton{
+    margin-left: 49%;
+    padding: 10px 10px;
+    background-color: aqua;
+    margin-top: 10px;
+}
